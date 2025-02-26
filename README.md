@@ -1,4 +1,4 @@
-# steffens_test
+# steffens_test & eirini_test
 A test repository to learn git/github
 
 
