@@ -12,6 +12,7 @@ A test repository to learn git/github
 
 - Joana Steffens
 
+I am doing a PhD in geochemistry in Quebec (Canada)
 
 Eirini arrived.
 
@@ -20,3 +21,5 @@ Welcome in my repository :)
 Nice to be here :)
 
 I am glad to hear that :D
+
+It is pretty snowy here. 
