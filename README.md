@@ -1,6 +1,4 @@
-
 # steffens_test & eirini_test
-
 
 A test repository to learn git/github
 
@@ -26,3 +24,4 @@ Nice to be here :)
 I am glad to hear that :D
 
 It is pretty snowy here. 
+
